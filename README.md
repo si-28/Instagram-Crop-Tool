@@ -1,5 +1,5 @@
 # Instagram Crop Tool
-Split images for Instagram and show it as one big photo on a profile.
+Split images for Instagram to show as one big photo on a profile
 
 
 
