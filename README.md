@@ -38,7 +38,7 @@ Results
 ---
 Cropped             |  Displayed
 :-------------------------:|:-------------------------:
-![World of Daybreak](https://i.imgur.com/q2ec8iA.gif)  |  ![](https://i.imgur.com/IEyQwrY.png)
+![World of Daybreak](https://i.imgur.com/q2ec8iA.gif)  |  [![](https://i.imgur.com/IEyQwrY.png)](https://instagram.com/world.of.daybreak/)
 
 
 
