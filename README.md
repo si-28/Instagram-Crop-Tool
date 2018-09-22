@@ -1,5 +1,5 @@
-# Photo  Splicer
-Crops a single image into multiple to display on Instagram
+# Instagram-Crop-Tool
+Split images for Instagram and show it as one big photo on a profile.
 
 
 
